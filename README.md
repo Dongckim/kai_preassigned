@@ -41,7 +41,7 @@ void StartVideo(double networkStartTime)
 
 ## 시연 방법
 
-[![Video Label](https://velog.velcdn.com/images/yujinaa/post/860ecb57-4984-4912-8b8b-e3f16b9e73f9/image.png)](https://www.youtube.com/shorts/vcsNSA-Dwso)
+[![Video Label](https://velog.velcdn.com/images/yujinaa/post/860ecb57-4984-4912-8b8b-e3f16b9e73f9/image.png)](https://youtu.be/AeQYozCcH7M)
 *클릭 시 유튜브로 이동합니다. 현재 본가에 있어 주변 소음이 있을 수 있으니 양해 부탁드립니다.*
 
 빌드 및 실행 후, 빌드된 프로그램 인스턴스와 유니티 에디터 시뮬레이터 두 대로 실행.

@@ -66,6 +66,12 @@ public class VideoSync : MonoBehaviourPunCallbacks
     void PlayVideo()
     {
         isPlaying = true;
+        
+        double diffTime = startTime - PhotonNetwork.Time;
+        videoPlayer.time = diffTime;
+
+        Debug.Log($"디버깅 시간 {diffTime * 1000.0} ms");
+
         videoPlayer.Play();
     }
 }

@@ -12,6 +12,9 @@
 /[Uu]ser[Ss]ettings/
 *.log
 
+/Assets/StreamingAssets/aespa_Comp_v7_BMB.mp4
+/Assets/StreamingAssets/aespa_Comp_v7_BMB.mp4.meta
+
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be commited to version control.
 *.blend1
 *.blend1.meta
